@@ -1,12 +1,19 @@
 ### Additional Exercises: Blink LED
 
 - Can you make the LED blink multiple times? <br>
-- Print the blink_count.
-- Can you make the on-board LED blink? Hint: Use pin 25 to configure the onboard LED! <br>
-- Can you add more LEDs to your circuit and make them blink? <br>
-- Can you use a for loop instead of a while loop? <br>
+  - Print the blink_count and observe how it changes. <br>
+  - Change the blink speed by adjusting the time.sleep() values.
+  - Make the LED blink in a pattern (e.g., short-short-long blinks like Morse code). <br>
+- Add more LEDs to your circuit and make them blink. <br>
+  - Make them blink in a pattern, one after the other! <br>
+- Make the on-board LED blink. Hint: Use pin 25 to configure the onboard LED! <br>
+- Update the code to use a for loop, instead of a while loop. Do you notice any differences? <br>
 - What happens if you switch the LED terminals A & C (connect pin A (anode) to GND and  pin C (cathode) to a GP pin)? <br>
-- Make the LED blink infinitely! 
+- Make the LED blink infinitely! <br>
+- Use `input()` to ask the user how many times they want the LED to blink. Let them enter a number to control the number of blinks dynamically. <br>
+- Add a button to your circuit. The LED should blink only after the user presses the button. The button will act as a trigger to start the blinking process. <br>
+
+
 
 
 ### Play the reaction game on Wokwi
@@ -19,10 +26,10 @@ Link to Wokwi simulator for the Reaction Game:  [Wokwi Simulator - Reaction Game
 
 ### Additional Learning Resources
 
+-  You bought a new Pico board. What next? See how to flash MicroPython and setup the new board [here](https://github.com/GHCFW/LevelUpLab2023/blob/main/Getting_started_on_pico.md).
 -  [Additional Wokwi Pico Projects to explore](https://wokwi.com/pi-pico)
 -  [Raspbery Pi Pico Datasheet](https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf)
 -  [Raspberry Pi Pico SDK](https://github.com/raspberrypi/pico-sdk)
 -  [Raspberry Pi Pico SDK in C](https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-c-sdk.pdf)
 -  [Pico Examples on Github](https://github.com/raspberrypi/pico-examples)
--  You bought a new Pico board. What next? See how to flash MicroPython and setup the new board [here](https://github.com/GHCFW/LevelUpLab2023/blob/main/Getting_started_on_pico.md).
 
