@@ -16,8 +16,8 @@ Your board should look something like this:
   Connect the socket end of the cables to the two pins of the buzzer, and the pin ends of the jumper cables to the bread-board.
 
   We want to connect the buzzer to the board via: <br>
-   &nbsp; &nbsp;- GND, which is connected on the bread-board via 3[abcde] <br>
-   &nbsp; &nbsp;- GPIO pin 14, which is connected on the bread-board via 19 [abcde] <br>
+   &nbsp; &nbsp;- GND, which is connected on the bread-board row 3 [abcde] <br>
+   &nbsp; &nbsp;- GPIO pin 14, which is connected on the bread-board row 19 [abcde] <br>
 
    &nbsp; &nbsp; ![Exercise 3: Connecting Buzzer to the Board](https://github.com/GHCFW/WorkshopExercise23/blob/main/images/Buzzer_On_Board.jpeg)
 
