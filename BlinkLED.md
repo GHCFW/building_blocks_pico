@@ -2,9 +2,9 @@
 
 
 ### Exercise 1. Open the Wokwi project and run the code <br>
-- Click on the following link to open your project in the Wokwi simulator: [Wokwi Simulator Exercise - Blink a LED ](https://wokwi.com/projects/423295153155911681).
+- Click on the following link to open the project in the Wokwi simulator: [Wokwi Simulator Exercise - Blink a LED ](https://wokwi.com/projects/423295153155911681).
 
-- Start by running this simulation. You should see a print in the console: Hello, Pi Pico!
+- Start by running this simulation. You should see a print in the console: `Hello, Pi Pico!`
 
 
 ### Exercise 2. Setup the circuit by adding a LED & a resistor to the Pico board <br>
