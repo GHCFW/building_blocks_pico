@@ -86,7 +86,7 @@ In the example above, the while loop is designed to blink the LED 5 times. Each 
 Note: Python relies on indentation to identify which lines of code belong together. Without proper indentation, Python  (or MicroPython) will not be able to understand what code is part of the loop or function. This will result in program to behave unpredictably.
 
 - Can you print the blink_count?
-- Can you try making the LED blink infinetely?
+- Can you try making the LED blink infinitely?
 
 ### Additional Exercises
 
