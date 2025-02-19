@@ -88,18 +88,6 @@ Note: Python relies on indentation to identify which lines of code belong togeth
 - Can you print the blink_count?
 - Can you try making the LED blink infinitely?
 
-### Additional Exercises
-
-- Can you make the LED blink multiple times? <br>
-- Can you make the on-board LED blink? Use pin 25 to configure the onboard LED! <br>
-- Can you add more LEDs to your circuit and make them blink> <br>
-- Can you use a for loop instead of a while loop? <br>
-- What happens if you switch the LED terminals A & C (connect A to GND and C to a GP pin)? <br>
-- Can you add and configure a component as an input pin? You can use  
-
-
-
-
 <br>
 
 # Answer Key
