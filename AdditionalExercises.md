@@ -7,6 +7,7 @@
 - Add more LEDs to your circuit and make them blink. <br>
   - Make them blink in a pattern, one after the other! <br>
 - Make the on-board LED blink. Hint: Use pin 25 to configure the onboard LED! <br>
+- Use `led.toggle()` instead of `led.value()` to change the LED state.  <br>
 - Update the code to use a for loop, instead of a while loop. Do you notice any differences? <br>
 - What happens if you switch the LED terminals A & C (connect pin A (anode) to GND and  pin C (cathode) to a GP pin)? <br>
 - Make the LED blink infinitely! <br>
