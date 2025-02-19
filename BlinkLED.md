@@ -16,7 +16,7 @@
   ![Exercise 2: LED Setup](https://github.com/GHCFW/building_blocks_pico/blob/main/images/led_resistor_pico.png)
 
 
-### Exercise 3. Code: Configure the LED Pin <br>
+### Exercise 3. Configure the LED Pin <br>
 
 Configure the LED pin as an output pin. In the below example, LED is connected to GP3 pin on the board and that is configured as an output pin using the `Pin(<Pin number>, <Direction>)` module provided by Raspberry Pi Pico SDK
 ```
@@ -28,7 +28,7 @@ Note: Pin module is imported using the following code:
 from machine import Pin
 ```
 
-### Exercise 4. Code: Program the LED to turn ON<br>
+### Exercise 4. Program the LED to turn ON<br>
 
 Use the method 'value(<0 or 1>)' to assign 1 to the given led pin. 1 -> Power on the LED!
 ```
@@ -36,7 +36,7 @@ led.value(1)
 ```
 
 
-### Exercise 4. Code: Program the LED to turn OFF <br>
+### Exercise 4. Program the LED to turn OFF <br>
 
 Use the method 'value(<0 or 1>)' to assign 0 to the given led pin. 0 -> Power off the LED!
 
@@ -45,7 +45,7 @@ led.value(0)
 ```
 
 
-### Exercise 5. Code: Make the LED blink <br>
+### Exercise 5. Make the LED blink <br>
 
 Add some time after turning on and turning off the LED to see the LED blink. 
 Use the method 'time.sleep(<value in seconds>)' to add some delay
@@ -66,7 +66,7 @@ import time
 ```
 
 
-### Exercise 6. Code: Make the LED blink multiple times <br>
+### Exercise 6. Make the LED blink multiple times <br>
 
 Use a `while` loop to abstract your code and blink the LED multiple times. The example below blinks the LED 5 times.
 
