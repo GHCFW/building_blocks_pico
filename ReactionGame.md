@@ -27,4 +27,4 @@ Your board should look something like this:
 
 ### Step 3. Play the game!
   We have already programmed the board with the relevant code needed for this exercise. 
-  Just connect the board to your laptop using the provided USB cables and start playing!!
+  Just connect the board to your laptop using the provided USB cable and start playing!!
