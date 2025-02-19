@@ -1,7 +1,14 @@
 ## Activity: Play the reaction game on the Pico Board
 
+### Step 1. Locate the board and all the components <br>
 
-### Step 1. Let's start by connecting the buzzer to the board. <br>
+Make small groups to share the board and play the game.<br>
+Your board should look something like this:
+
+  ![Exercise 1: Board Setup](https://github.com/GHCFW/WorkshopExercise23/blob/main/images/Exercise_1_Board_Setup.jpeg)
+
+
+### Step 2. Let's start by connecting the buzzer to the board. <br>
    Locate the buzzer and some jumper cables (socket-pin style cables) on your table. <br>
 
   &nbsp; &nbsp; ![Exercise 3: Buzzer](https://github.com/GHCFW/WorkshopExercise23/blob/main/images/Buzzer_Connections.jpeg)
@@ -18,7 +25,7 @@
       [Raspberry Pi Pico pinout diagram](https://datasheets.raspberrypi.com/pico/Pico-R3-A4-Pinout.pdf?_gl=1*1ish86u*_ga*MTc0NDY1MTcyMC4xNjk0MDQ3NTcw*_ga_22FD70LWDS*MTY5NDA1MTUwNC4yLjAuMTY5NDA1MTUwNS4wLjAuMA..)
 
 
-### Step 2. Play the game!
+### Step 3. Play the game!
   We have already programmed the board with the relevant code needed for this exercise. 
   Just connect the board to your laptop using the provided USB cables and start playing!!
 
