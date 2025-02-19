@@ -3,7 +3,7 @@
 - Can you make the LED blink multiple times? <br>
 - Print the blink_count.
 - Can you make the on-board LED blink? Hint: Use pin 25 to configure the onboard LED! <br>
-- Can you add more LEDs to your circuit and make them blink> <br>
+- Can you add more LEDs to your circuit and make them blink? <br>
 - Can you use a for loop instead of a while loop? <br>
 - What happens if you switch the LED terminals A & C (connect A to GND and C to a GP pin)? <br>
 - Make the LED blink infinitely! 
