@@ -9,10 +9,11 @@
 - Make the on-board LED blink. Hint: Use pin 25 to configure the onboard LED! <br>
 - Use `led.toggle()` instead of `led.value()` to change the LED state.  <br>
 - Update the code to use a for loop, instead of a while loop. Do you notice any differences? <br>
-- What happens if you switch the LED terminals A & C (connect pin A (anode) to GND and  pin C (cathode) to a GP pin)? <br>
 - Make the LED blink infinitely! <br>
 - Use `input()` to ask the user how many times they want the LED to blink. Let them enter a number to control the number of blinks dynamically. <br>
+- Create a function called `blink_led()` and encapsulate the related code within this function. What are the benefits of structuring your code this way? <br>
 - Add a button to your circuit. The LED should blink only after the user presses the button. The button will act as a trigger to start the blinking process. <br>
+- What happens if you switch the LED terminals A & C (connect pin A (anode) to GND and  pin C (cathode) to a GP pin)? <br>
 
 
 
