@@ -1,0 +1,83 @@
+## Activity: Blink an LED using Wokwi Simulator for Raspberry Pi Pico
+
+
+### Exercise 1. Open the Wokwi project and run the code <br>
+Click on the following link to open your project in the Wokwi simulator: [Wokwi Simulator Exercise - Blink a LED ](https://wokwi.com/projects/423295153155911681).
+
+Start by running this simulation. You should see a print in the console: Hello, Pi Pico!
+
+### Exercise 2. Setup the circuit by adding a LED & a resistor to the Pico board <br>
+
+Add a LED and a resistory (1 kOhm) to your design.
+Connect one end of the LED terminal (A- Anode) to any GP (general-purpose) pins provided on the board. Connect a resistor the the LED terminal (C- Cathode). Connect the other end of the resistory to any GND pin on the board.
+
+
+### Exercise 3. Code: Setup the LED Pin <br>
+
+Setup the chosen LED GP pin as an output pin. In the below example, LED is connected to GP3 pin and that is configured as an output pin using the Pin module provided by Raspberry Pi Pico SDK
+```
+led = Pin(3, Pin.OUT)
+```
+
+### Exercise 4. Code: Turn the LED ON<br>
+
+Use the method 'value(<0 or 1>)' to assign 1 to the given led pin. 1 -> Power on the LED!
+```
+led.value(1)
+```
+
+### Exercise 4. Code: Turn the LED OFF <br>
+
+Use the method 'value(<0 or 1>)' to assign 0 to the given led pin. 0 -> Power off the LED!
+```
+led.value(0)
+```
+
+### Exercise 5. Code: Make the LED blink <br>
+
+Add some time after turning on and turning off the LED to see the LED blink. 
+Use the method 'time.sleep(<value in seconds>)' to add some delay
+```
+led.value(1)
+time.sleep(0.3)
+led.value(0)
+time.sleep(0.3)
+```
+
+Try different sleep values and see what happens!
+
+### Exercise 6. Code: Make the LED blink multiple times <br>
+
+Use a `while` loop to abstract your code and blink the LED multiple times. The example below blinks the LED 5 times.
+
+```
+blink_count = 5
+
+while(blink_count > 0):
+    led.value(1)
+    time.sleep(0.3)
+    led.value(0)
+    time.sleep(0.3)
+    blink_count = blink_count - 1
+```
+
+### Additional Exercises
+
+- Can you make the LED blink multiple times? <br>
+- Can you make the on-board LED blink? Use pin 25 to configure the onboard LED! <br>
+- Can you add more LEDs to your circuit and make them blink> <br>
+- Can you use a for loop instead of a while loop? <br>
+- What happens if you switch the LED terminals A & C (connect A to GND and C to a GP pin)? <br>
+
+
+
+
+
+<br>
+
+# Answer Key
+  
+   https://wokwi.com/projects/423295100321284097  
+
+    
+<br>
