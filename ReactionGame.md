@@ -21,3 +21,12 @@
 ### Step 2. Play the game!
   We have already programmed the board with the relevant code needed for this exercise. 
   Just connect the board to your laptop using the provided USB cables and start playing!!
+
+
+
+## Additional Exercises: Play the reaction game on Wokwi
+Link to Wokwi simulator for the Reaction Game:  [Wokwi Simulator - Reaction Game ](https://wokwi.com/projects/423198616631390209)
+
+- Play the reaction game on Wokwi.
+- Can you try changing the victory song for both players? Pick another song from songs library and call that in-place of the existing tune (lines 36 & 42 in main.py).
+- Add another LED and use that to start the game.
