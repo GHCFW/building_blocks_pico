@@ -15,7 +15,7 @@ In this hands-on adventure, we’ll dive into the basics of coding and hardware 
   * A victory music will play for the winning player. <br>
   * The LED has been configured to stay on for an arbitary amount of time. Button presses while the LED is still on will be ignored. <br> <br>
 
-   We have setup the Pico board along with 2 switches for you. The micropython firmware as well as the game firmware has been flashed on the board. You will need to connect the buzzer to the board before you can start playing!
+   The Raspberry Pi Pico board has been setup with 2 buttons to play. All the necessary code (Micropython firmware, game firmware) has been flashed on the board. You will need to connect the buzzer to the board before you can start playing!
 
    Jump over to [Activity 1: Reaction Game](https://github.com/GHCFW/building_blocks_pico/blob/main/ReactionGame.md) for detailed instructions
 
