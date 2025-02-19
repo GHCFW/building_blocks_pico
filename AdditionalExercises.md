@@ -24,5 +24,5 @@ Link to Wokwi simulator for the Reaction Game:  [Wokwi Simulator - Reaction Game
 -  [Raspberry Pi Pico SDK](https://github.com/raspberrypi/pico-sdk)
 -  [Raspberry Pi Pico SDK in C](https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-c-sdk.pdf)
 -  [Pico Examples on Github](https://github.com/raspberrypi/pico-examples)
--  You bought a new Pico board. What next? See how to flash micorpython and setup the new board [here](https://github.com/GHCFW/LevelUpLab2023/blob/main/Getting_started_on_pico.md).
+-  You bought a new Pico board. What next? See how to flash MicroPython and setup the new board [here](https://github.com/GHCFW/LevelUpLab2023/blob/main/Getting_started_on_pico.md).
 
