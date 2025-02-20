@@ -20,7 +20,7 @@
 
 ### Play the reaction game on Wokwi
 
-Link to Wokwi simulator for the Reaction Game:  [Wokwi Simulator - Reaction Game ](https://wokwi.com/projects/423198616631390209)
+Link to Wokwi simulator for the Reaction Game:  [Wokwi Simulator - Reaction Game ](https://wokwi.com/projects/423387272779429889)
 
 - Play the reaction game on Wokwi.
 - Can you try changing the victory song for both players? Pick another song from songs library and call that in-place of the existing tunes (hint: look at lines 36 & 42 in main.py).
