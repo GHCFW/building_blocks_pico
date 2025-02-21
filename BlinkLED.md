@@ -1,5 +1,8 @@
 ## Activity: Blink an LED using Wokwi Simulator for Raspberry Pi Pico
 
+### Goal
+- Create a circuit consisting of an LED, a resistor and the Pico board on Wokwi
+- Write firmware to make the LED blink
 
 ### Exercise 1. Open the Wokwi project and run the code <br>
 - Click on the following link to open the project in the Wokwi simulator: [Wokwi Simulator Exercise - Blink an LED ](https://wokwi.com/projects/423295153155911681).
