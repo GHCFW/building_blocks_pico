@@ -1,4 +1,4 @@
-# Code, Blink, Play: Exploring Raspberry Pi Pico
+# Little Board, Big Possibilities: Exploring Raspberry Pi Pico
 
 Welcome to the exciting world of hardware and firmware using Raspberry Pi Pico!
 
