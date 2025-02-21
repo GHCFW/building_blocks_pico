@@ -9,7 +9,7 @@
 
 ### Exercise 2. Setup the circuit by adding a LED & a resistor to the Pico board <br>
 
-- Add a LED and a resistor (1 kOhm) to your design. <br>
+- Add an LED and a resistor (1 kOhm) to your design. <br>
 - Connect one end of the LED terminal (A- Anode) to any GP (general-purpose) pin provided on the board. Connect a resistor to the other end of the LED terminal (C- Cathode). <br>
 - Connect the other end of the resistor to any GND pin on the board.
 
