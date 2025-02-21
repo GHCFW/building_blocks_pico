@@ -20,7 +20,7 @@ In this hands-on adventure, we’ll dive into the basics of coding and hardware 
    Jump over to [Activity 1: Reaction Game](https://github.com/GHCFW/building_blocks_pico/blob/main/ReactionGame.md) for detailed instructions
 
    
- ## Activity 2: Blink a LED on Wokwi simulator 
+ ## Activity 2: Blink an LED on Wokwi simulator 
 
    **Goal of the exercise**<br>
    * Create a circuit consisting of a LED, a resistor and the Pico board
