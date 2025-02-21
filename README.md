@@ -2,7 +2,7 @@
 
 Welcome to the exciting world of hardware and firmware using Raspberry Pi Pico!
 
-In this hands-on adventure, we’ll dive into the basics of coding and hardware interactions with the Raspberry Pi Pico. You'll learn how to program simple, yet powerful, actions like blinking a LED, and play a fun game on the board.
+In this hands-on adventure, we’ll dive into the basics of coding and hardware interactions with the Raspberry Pi Pico. You'll learn how to program simple, yet powerful, actions like blinking an LED, and play a fun game on the board.
 
 
 ## Activity 1: Play the reaction game on the Pico board
@@ -23,7 +23,7 @@ In this hands-on adventure, we’ll dive into the basics of coding and hardware 
  ## Activity 2: Blink an LED on Wokwi simulator 
 
    **Goal of the exercise**<br>
-   * Create a circuit consisting of a LED, a resistor and the Pico board
+   * Create a circuit consisting of an LED, a resistor and the Pico board
    * Write firmware to make the LED blink
 
    Jump over to [Activity 2: Blink an LED](https://github.com/GHCFW/building_blocks_pico/blob/main/BlinkLED.md) for detailed instructions
