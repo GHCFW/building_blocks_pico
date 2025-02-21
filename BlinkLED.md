@@ -7,7 +7,7 @@
 - Start by running this simulation. You should see a print in the console: `Hello, Pi Pico!`
 
 
-### Exercise 2. Setup the circuit by adding a LED & a resistor to the Pico board <br>
+### Exercise 2. Setup the circuit by adding an LED & a resistor to the Pico board <br>
 
 - Add an LED and a resistor (1 kOhm) to your design. <br>
 - Connect one end of the LED terminal (A- Anode) to any GP (general-purpose) pin provided on the board. Connect a resistor to the other end of the LED terminal (C- Cathode). <br>
