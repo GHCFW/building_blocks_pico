@@ -26,7 +26,7 @@ In this hands-on adventure, we’ll dive into the basics of coding and hardware 
    * Create a circuit consisting of a LED, a resistor and the Pico board
    * Write firmware to make the LED blink
 
-   Jump over to [Activity 2: Blink a LED](https://github.com/GHCFW/building_blocks_pico/blob/main/BlinkLED.md) for detailed instructions
+   Jump over to [Activity 2: Blink an LED](https://github.com/GHCFW/building_blocks_pico/blob/main/BlinkLED.md) for detailed instructions
 
 
  ## Additional Activities and Learning Resources
