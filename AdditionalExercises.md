@@ -1,4 +1,4 @@
-### Additional Exercises: Blink LED
+## Additional Exercises: Blink LED
 
 - Can you make the LED blink multiple times? <br>
   - Print the blink_count and observe how it changes. <br>
@@ -18,7 +18,7 @@
 
 
 
-### Play the reaction game on Wokwi
+## Play the reaction game on Wokwi
 
 Link to Wokwi simulator for the Reaction Game:  [Wokwi Simulator - Reaction Game ](https://wokwi.com/projects/423387272779429889)
 
@@ -26,7 +26,7 @@ Link to Wokwi simulator for the Reaction Game:  [Wokwi Simulator - Reaction Game
 - Can you try changing the victory song for both players? Pick another song from songs library and call that in-place of the existing tunes (hint: look at lines 36 & 42 in main.py).
 - Add another LED and use that to start the game.
 
-### Additional Learning Resources
+## Additional Learning Resources
 
 -  You bought a new Pico board. What next? See how to flash MicroPython and setup the board [here](https://github.com/GHCFW/LevelUpLab2023/blob/main/Getting_started_on_pico.md).
 -  [Additional Wokwi Pico Projects to explore](https://wokwi.com/pi-pico)
